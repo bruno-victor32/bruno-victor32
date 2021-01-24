@@ -1,6 +1,5 @@
-### Hi there 👋
+### Bruno Victor
 
-<img align="right" width="300px" src="./bio-image.svg" />
 
 <p align="left">
   <a href="mailto:bruno.victor32@yahoo.com.br">
@@ -8,10 +7,11 @@
   </a>
   <a href="https://www.linkedin.com/in/bruno-victor-7058b899/">
     <img src="https://img.shields.io/badge/-Bruno%20Victor-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-victor-7058b899/" />
-  </a>
-  <a href="https://github.com/bruno-victor32/?tab=follow">
-  </a>
 </p>
+
+<hr>
+
+<blockquote align="center">“The key to transformation is continuity. Keep coding!”</blockquote>
 
 <br>
 
