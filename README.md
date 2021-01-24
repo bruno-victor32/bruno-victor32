@@ -15,15 +15,15 @@
 
 <br>
 
-- :rocket: Skills: <strong>HTML5 | CSS3(Sass) | JavaScript (ES6+) | Node.js | NPM / Yarn | PostgreSQL.</strong>
-- :mortar_board: Studying: <strong>ReactJS</strong>.
-- :briefcase: I'm currently available for work.
+## Hello world! ✌️
+I'm Bruno Victor, 
+I'm passionate about technology,
+I am a student taking advantage of all the opportunities that arise to acquire new knowledge and then put it into practice as a junior or intern developer.
 
-<br>
-
-<img
-  align="left"
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=martins-rafael&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
-/>
+- 🔓  I’m currently unlocking some knowledge on JavaScript, HTML, CSS, Node, that means I´m a student in process of turning into a junior dev.
+- 🚀  I'm in a career transition :) Studying at Rocketseat while working with Civil Construction. 
+- ⚡ Studing Technologies: Javascript, HTML, CSS, Node, Typescript.
+- 💀 Dying for an opportunity in the dev world.
+<br><br>
+<hr>
 
