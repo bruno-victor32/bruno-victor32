@@ -13,8 +13,6 @@
 
 <blockquote align="center">“The key to transformation is continuity. Keep coding!”</blockquote>
 
-<br>
-
 ## Hello world! ✌️
 I'm Bruno Victor, 
 I'm passionate about technology,
