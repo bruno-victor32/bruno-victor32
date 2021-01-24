@@ -9,8 +9,8 @@
   <a href="https://www.linkedin.com/in/bruno-victor-7058b899/">
     <img src="https://img.shields.io/badge/-Bruno%20Victor-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-victor-7058b899/" />
   </a>
-  <a href="https://github.com/bruno-victor32">
-    <img src="https://img.shields.io/github/followers/martins-rafael?label=Follow&style=social" />
+  <a href="https://github.com/bruno-victor32/?tab=follow">
+    <img src="https://img.shields.io/github/followers/victor32-bruno?label=Follow&style=social" />
   </a>
 </p>
 
